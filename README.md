@@ -1,1 +1,1 @@
-this repository contain all the open source technology lab experiments for semester 3.
+this is the readme file that i am going to make in branch b1 and merge to main before pushing it.
